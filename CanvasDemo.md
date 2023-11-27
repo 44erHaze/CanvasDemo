@@ -2,8 +2,8 @@
 
 # Inhaltsverzeichnis
 
-- [Übersicht]
-- [Eigenschaften]
+- [Übersicht] (#Übersicht)
+- [Eigenschaften] (#Eigenschaften)
 
 ## Canvas:
 
