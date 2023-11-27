@@ -7,7 +7,7 @@
 
 ## Canvas:
 
-Ein Container-Element in WPF, das zum Positionieren und Zeichnen von Elementen verwendet wird.
+Ein Container-Element in WPF, das zum Positionieren von Elementen verwendet wird.
 
 Kann in XAML oder im Code-Behind erstellt werden.
 
@@ -25,12 +25,4 @@ Top und Left: Eigenschaften zur Festlegung der Position von Kinderlementen auf d
 
 ## Canvas-Verwendung im Code-Behind:
 
-Initialisierung im Konstruktor: InitializeComponent();
-
-Hinzuf�gen von Shapes (hier: Rectangle und Ellipse) zum Canvas.
-
 Verwendung von Canvas.SetTop und Canvas.SetLeft zum Festlegen der Position von Shapes.
-
-```
-
-```
